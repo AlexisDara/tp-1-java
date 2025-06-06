@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class ej4{
+public class ej10{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
     
