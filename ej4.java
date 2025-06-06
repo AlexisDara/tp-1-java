@@ -9,11 +9,11 @@ public class ej4{
         int sumaImpares = 0;
 
         // pedir un numero entero positivo
-        System.out.println("Ingrese un número entero positivo:");
+        System.out.println("Ingrese un numero entero positivo:");
         n = scanner.nextInt();
 
         while(n <= 0) { // validar que sea positivo
-            System.out.println("Por favor, ingrese un número mayor que cero:");
+            System.out.println("ingrese un numero mayor que cero:");
             n = scanner.nextInt();
         }
 
