@@ -12,11 +12,11 @@ public class ej25{
         double num2 = scanner.nextDouble();
 
         // Mostrar el menu de operaciones
-        System.out.println("Seleccione la operación:");
+        System.out.println("Seleccione la operacion:");
         System.out.println("1. Suma");
         System.out.println("2. Resta");
         System.out.println("3. Multiplicacion");
-        System.out.println("4. División");
+        System.out.println("4. Division");
 
         System.out.print("Ingrese el número de la operación: ");
         int opcion = scanner.nextInt();
